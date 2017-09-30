@@ -1,0 +1,7 @@
+.idea/codeStyleSettings.xml
+.idea/modules.xml
+.idea/server.iml
+.idea/workspace.xml
+node_modules/
+package-lock.json
+server.log
